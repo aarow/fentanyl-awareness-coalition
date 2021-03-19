@@ -1,0 +1,31 @@
+{
+  "name": "fentanylawarenesscoalition",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "author": "aarow <mrmustarde@me.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "build": "sanity build"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@andre-brdoch/sanity-plugin-schema-inspector": "^1.4.0",
+    "@sanity/base": "^2.6.2",
+    "@sanity/components": "^2.2.6",
+    "@sanity/core": "^2.6.2",
+    "@sanity/default-layout": "^2.6.2",
+    "@sanity/default-login": "^2.2.6",
+    "@sanity/desk-tool": "^2.6.3",
+    "@sanity/vision": "^2.2.6",
+    "next": "*",
+    "prop-types": "^15.7",
+    "react": "^17.0",
+    "react-dom": "^17.0"
+  },
+  "devDependencies": {}
+}
